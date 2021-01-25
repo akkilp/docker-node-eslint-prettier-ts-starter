@@ -1,0 +1,12 @@
+{
+	"terminal.integrated.shell.linux": "/bin/bash",
+	"editor.formatOnSave": true,
+	"[javascript]": {
+	"editor.formatOnSave": false
+	},
+	"editor.codeActionsOnSave": {
+	"source.fixAll.eslint": true
+	},
+	"eslint.alwaysShowStatus": true,
+	"typescript.validate.enable": true,
+}
